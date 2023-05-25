@@ -1,2 +1,2 @@
 # QR_Code_Component
-Front end mentor challenge solution
+LIVE TESTING - https://satveaka.github.io/QR_Code_Component/
